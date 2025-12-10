@@ -1,0 +1,7 @@
+{
+  "name": "Bluetooth Scanner",
+  "description": "Scan and view details of nearby Bluetooth devices using the Web Bluetooth API.",
+  "requestFramePermissions": [
+    "bluetooth"
+  ]
+}
